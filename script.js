@@ -48,7 +48,7 @@ require([
     const view = new MapView({
         container: "viewDiv",
         center: [-90.1994, 38.6270], // Center on St. Louis
-        zoom: 12,
+        zoom: 11,
         map: map
     });
 
